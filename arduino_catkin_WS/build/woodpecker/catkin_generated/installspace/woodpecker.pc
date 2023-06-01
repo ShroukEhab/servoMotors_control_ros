@@ -1,0 +1,8 @@
+prefix=/home/shrouk/Arduino/arduino_catkin_WS/install
+
+Name: woodpecker
+Description: Description of woodpecker
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

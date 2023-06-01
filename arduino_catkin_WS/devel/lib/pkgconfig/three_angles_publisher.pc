@@ -1,0 +1,8 @@
+prefix=/home/shrouk/Arduino/arduino_catkin_WS/devel
+
+Name: three_angles_publisher
+Description: Description of three_angles_publisher
+Version: 0.0.0
+Cflags: -I/home/shrouk/Arduino/arduino_catkin_WS/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime
